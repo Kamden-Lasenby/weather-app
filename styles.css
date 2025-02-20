@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+#weatherForm {
+    margin-bottom: 20px;
+}
+#weatherResult {
+    margin-top: 20px;
+}
